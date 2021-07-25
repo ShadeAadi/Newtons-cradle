@@ -1,2 +1,1 @@
-# newtons_cradle
-Newton's Cradle
+# Newton's Cradle
